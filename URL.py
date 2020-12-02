@@ -1,0 +1,5 @@
+netflix = "https://www.google.com/search?q=netflix&rlz=1C5CHFA_enIN919IN919&oq=netfl&aqs=chrome.1.69i60j69i59i433i457j0i433j69i57j69i60l4.1587j1j7&sourceid=chrome&ie=UTF-8"
+shopping = "https://www.amazon.in/"
+youtube  = "https://www.youtube.com/"
+music = "https://www.google.com/         search?q=amazon+music&rlz=1C5CHFA_enIN919IN919&oq=amazon+music&aqs=chrome..69i57j0i433l5j0j69i60.4561j0j7&sourceid=chrome&ie=UTF-8"
+news = "https://news.google.com/topstories?hl=en-IN&gl=IN&ceid=IN:en"
